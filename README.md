@@ -50,7 +50,7 @@ Credit cards offer numerous benefits when used responsibly. They provide conveni
 
    Here is the data set link:
 
-   [https://github.com/sainadh2002/Credit_card_analysis/blob/main/creditcard.csv](https://github.com/sainadh2002/Credit_card_analysis/blob/main/creditcard.csv%20) 
+   [https://github.com/VenkatraoThallapalli-VT/Credit-Card/blob/main/creditcard.csv](https://github.com/VenkatraoThallapalli-VT/Credit-Card/blob/main/creditcard.csv) 
 
    After extracting I observed that there are 150002 rows × 18 columns which is a large data set.
 

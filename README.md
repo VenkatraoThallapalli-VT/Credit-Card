@@ -112,11 +112,11 @@ First, we want to find out how many missing values are there in every column usi
 
 `    `**Here is the code link please go through this link.**
 
-`     `**[https://github.com/sainadh2002/Credit_card_analysis/blob/main/credit_card.py**](https://github.com/sainadh2002/Credit_card_analysis/blob/main/credit_card.py)**
+`     `**[https://github.com/VenkatraoThallapalli-VT/Credit-Card/blob/main/credit_card.py**](https://github.com/VenkatraoThallapalli-VT/Credit-Card/blob/main/credit_card.py)**
 
 NOW, after clean the data and removing outliers, the data is ready to make visualizations here is the data set which are cleaned.
 
-[     https://github.com/sainadh2002/Credit_card_analysis/blob/main/credit_card.csv](%20%20%20%20%20https:/github.com/sainadh2002/Credit_card_analysis/blob/main/credit_card.csv)
+[https://github.com/VenkatraoThallapalli-VT/Credit-Card/blob/main/creditcard.csv](https://github.com/VenkatraoThallapalli-VT/Credit-Card/blob/main/creditcard.csv)
 
 
 
@@ -396,7 +396,6 @@ This suggests that the West region has a relatively high overall debt ratio, wit
 **6.CONCLUSION**
 
 In conclusion, credit card users can be broadly categorized as "good" or "bad" based on their creditworthiness and usage behaviour. Good credit card users demonstrate responsible financial habits by making timely payments, staying within credit limits, and maintaining a low debt-to-credit ratio. This behaviour is rewarded by banks through benefits like lower interest rates, higher credit limits, and exclusive rewards. Conversely, bad credit card users struggle with timely payments, carry high balances, and often exceed their credit limits. This behaviour results in penalties, increased interest rates, and potential damage to their credit score. Responsible credit card usage is crucial for building a strong financial foundation and avoiding the pitfalls of debt.
-**
 
 
 

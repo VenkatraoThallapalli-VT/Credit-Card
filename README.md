@@ -399,10 +399,5 @@ In conclusion, credit card users can be broadly categorized as "good" or "bad" b
 **
 
 
-- **Project work sheet:**
-
-  We can go through my project work which we can understand more information on project. Here is the project link 
-
-<https://public.tableau.com/app/profile/venkata.sainadh.upputholla/viz/CREDIT_CARD/AGE_INTERVEL?publish=yes>
 
 
